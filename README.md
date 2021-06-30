@@ -1,6 +1,10 @@
 # BTmPG
 Code for paper Pushing Paraphrase Away from Original Sentence: A Multi-Round Paraphrase Generation Approach by Zhe Lin, Xiaojun Wan. This paper is accepted by Findings of ACL'21.
 
+## Dependencies
+PyTorch 1.4
+NLTK 3.5
+
 ## Model
 
 <img src="https://github.com/L-Zhe/BTmPG/blob/main/img/model.jpg?raw=true" width = "800" alt="overview" align=center />
