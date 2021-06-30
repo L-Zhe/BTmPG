@@ -3,7 +3,7 @@ Code for paper Pushing Paraphrase Away from Original Sentence: A Multi-Round Par
 
 ## Model
 
-<img src="https://github.com/L-Zhe/BTmPG/blob/main/img/model.jpg?raw=true" width = "400" alt="overview" align=center />
+<img src="https://github.com/L-Zhe/BTmPG/blob/main/img/model.jpg?raw=true" width = "800" alt="overview" align=center />
 
 ## Create Vocabulary
 
@@ -55,9 +55,9 @@ We also provide the pretrain-model file in releases page.
 
 ## Result
 
-<img src="https://github.com/L-Zhe/BTmPG/blob/main/img/result1.jpg?raw=true" width = "400" alt="overview" align=center />
+<img src="https://github.com/L-Zhe/BTmPG/blob/main/img/result1.jpg?raw=true" width = "800" alt="overview" align=center />
 
-<img src="https://github.com/L-Zhe/BTmPG/blob/main/img/result2.jpg?raw=true" width = "400" alt="overview" align=center />
+<img src="https://github.com/L-Zhe/BTmPG/blob/main/img/result2.jpg?raw=true" width = "500" alt="overview" align=center />
 
 ## Case Study
 
