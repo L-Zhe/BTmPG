@@ -1,5 +1,5 @@
 # BTmPG
-Code for paper Pushing Paraphrase Away from Original Sentence: A Multi-Round Paraphrase Generation Approach by Zhe Lin, Xiaojun Wan. This paper is accepted by Findings of ACL'21.
+Code for paper [Pushing Paraphrase Away from Original Sentence: A Multi-Round Paraphrase Generation Approach](https://aclanthology.org/2021.findings-acl.135/) by Zhe Lin, Xiaojun Wan. This paper is accepted by Findings of ACL'21.
 
 ## Dependencies
 ```
@@ -68,3 +68,23 @@ We also provide the pretrain-model file in releases page.
 ## Case Study
 
 <img src="https://github.com/L-Zhe/BTmPG/blob/main/img/case_study.jpg?raw=true" width = "400" alt="overview" align=center />
+
+## Reference
+
+If you use any content of this repo for your work, please cite the following bib entry:
+
+```
+@inproceedings{lin-wan-2021-pushing,
+    title = "Pushing Paraphrase Away from Original Sentence: A Multi-Round Paraphrase Generation Approach",
+    author = "Lin, Zhe  and
+      Wan, Xiaojun",
+    booktitle = "Findings of the Association for Computational Linguistics: ACL-IJCNLP 2021",
+    month = aug,
+    year = "2021",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.findings-acl.135",
+    doi = "10.18653/v1/2021.findings-acl.135",
+    pages = "1548--1557",
+}
+```
